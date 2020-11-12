@@ -1,0 +1,100 @@
+<application>
+  <component name="ProjectJdkTable">
+    <jdk version="2">
+      <name value="1.8" />
+      <type value="JavaSDK" />
+      <version value="java version &quot;1.8.0_102&quot;" />
+      <homePath value="D:/Program Files/Java/jdk1.8.0_102" />
+      <roots>
+        <classPath>
+          <root type="composite" />
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="1.8 (1)" />
+      <type value="JavaSDK" />
+      <version value="java version &quot;1.8.0_102&quot;" />
+      <homePath value="D:/Program Files/Java/jdk1.8.0_102" />
+      <roots>
+        <classPath>
+          <root type="composite" />
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.6 (FeaStNet-master) (3)" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.8" />
+      <homePath value="D:\Anaconda3\envs\tf2\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/AppData/Roaming/Python/Python36/site-packages" type="simple" />
+            <root url="file://D:/Anaconda3/envs/tf2/DLLs" type="simple" />
+            <root url="file://D:/Anaconda3/envs/tf2/Lib" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Roaming/Python/Python36/site-packages/tvm-0.5.dev0-py3.6-win-amd64.egg" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Roaming/Python/Python36/site-packages/topi-0.5.dev0-py3.6.egg" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Roaming/Python/Python36/site-packages/nnvm-0.8.0-py3.6.egg" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Roaming/Python/Python36/site-packages/pymeshfix-0.12.3-py3.6-win-amd64.egg" type="simple" />
+            <root url="file://D:/Anaconda3/envs/tf2/Lib/site-packages" type="simple" />
+            <root url="file://D:/Anaconda3/envs/tf2/Lib/site-packages/win32" type="simple" />
+            <root url="file://D:/Anaconda3/envs/tf2/Lib/site-packages/win32/lib" type="simple" />
+            <root url="file://D:/Anaconda3/envs/tf2/Lib/site-packages/pythonwin" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/JetBrains/PyCharm2020.1/python_stubs/569722968" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="F:/tf_projects/3D/FeaStNet-master" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.6 (2)" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.8" />
+      <homePath value="D:\Anaconda3\envs\tf2copy\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/AppData/Roaming/Python/Python36/site-packages" type="simple" />
+            <root url="file://D:/Anaconda3/envs/tf2copy/DLLs" type="simple" />
+            <root url="file://D:/Anaconda3/envs/tf2copy/Lib" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Roaming/Python/Python36/site-packages/tvm-0.5.dev0-py3.6-win-amd64.egg" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Roaming/Python/Python36/site-packages/topi-0.5.dev0-py3.6.egg" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Roaming/Python/Python36/site-packages/nnvm-0.8.0-py3.6.egg" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Roaming/Python/Python36/site-packages/pymeshfix-0.12.3-py3.6-win-amd64.egg" type="simple" />
+            <root url="file://D:/Anaconda3/envs/tf2copy/Lib/site-packages" type="simple" />
+            <root url="file://D:/Anaconda3/envs/tf2copy/Lib/site-packages/win32" type="simple" />
+            <root url="file://D:/Anaconda3/envs/tf2copy/Lib/site-packages/win32/lib" type="simple" />
+            <root url="file://D:/Anaconda3/envs/tf2copy/Lib/site-packages/pythonwin" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/JetBrains/PyCharm2020.1/python_stubs/1632055619" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+  </component>
+</application>
