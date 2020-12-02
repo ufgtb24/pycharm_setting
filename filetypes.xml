@@ -4,18 +4,18 @@
     <extensionMap>
       <mapping pattern="max_mean_log" type="PLAIN_TEXT" />
       <mapping pattern="关键的坑" type="PLAIN_TEXT" />
-      <mapping pattern="weighted FCN" type="PLAIN_TEXT" />
-      <mapping pattern="inverse" type="PLAIN_TEXT" />
-      <mapping pattern="data_log" type="PLAIN_TEXT" />
-      <mapping pattern="old data" type="PLAIN_TEXT" />
-      <mapping pattern="ill case" type="PLAIN_TEXT" />
-      <mapping pattern="log" type="PLAIN_TEXT" />
-      <mapping pattern="tmp log" type="PLAIN_TEXT" />
-      <mapping pattern="1e_5_1" type="PLAIN_TEXT" />
       <mapping pattern="test log" type="PLAIN_TEXT" />
-      <mapping pattern="test_log" type="PLAIN_TEXT" />
-      <mapping pattern="one case" type="PLAIN_TEXT" />
       <mapping pattern="log during debug" type="PLAIN_TEXT" />
+      <mapping pattern="one case" type="PLAIN_TEXT" />
+      <mapping pattern="1e_5_1" type="PLAIN_TEXT" />
+      <mapping pattern="weighted FCN" type="PLAIN_TEXT" />
+      <mapping pattern="old data" type="PLAIN_TEXT" />
+      <mapping pattern="inverse" type="PLAIN_TEXT" />
+      <mapping pattern="test_log" type="PLAIN_TEXT" />
+      <mapping pattern="tmp log" type="PLAIN_TEXT" />
+      <mapping pattern="log" type="PLAIN_TEXT" />
+      <mapping pattern="ill case" type="PLAIN_TEXT" />
+      <mapping pattern="data_log" type="PLAIN_TEXT" />
       <mapping ext="h5" type="PLAIN_TEXT" />
       <mapping pattern="area_display" type="Python" />
     </extensionMap>
