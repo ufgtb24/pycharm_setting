@@ -16,6 +16,7 @@
       <mapping pattern="log" type="PLAIN_TEXT" />
       <mapping pattern="ill case" type="PLAIN_TEXT" />
       <mapping pattern="data_log" type="PLAIN_TEXT" />
+      <mapping pattern="代码笔记" type="PLAIN_TEXT" />
       <mapping ext="h5" type="PLAIN_TEXT" />
       <mapping pattern="area_display" type="Python" />
     </extensionMap>
