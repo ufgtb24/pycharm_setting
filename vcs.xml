@@ -10,6 +10,10 @@
           <option name="url" value="http://52.81.88.25:9080" />
           <option name="userName" value="Fisher" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gitee.com" />
+          <option name="userName" value="ufgtb24" />
+        </UrlAndUserName>
       </list>
     </option>
   </component>
